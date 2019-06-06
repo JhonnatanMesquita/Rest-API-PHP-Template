@@ -19,7 +19,7 @@ return [
 		// database connection details         
         "db" => [            
              "host" => "localhost:3306",             
-             "dbname" => "teste",             
+             "dbname" => "test",             
              "user" => "root",            
              "pass" => ""        
          ],
